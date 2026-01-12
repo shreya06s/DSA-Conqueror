@@ -15,4 +15,4 @@ public class SumFunction {
 		int b=sc.nextInt();
 		System.out.println(sum(a,b));
 	}
-}// end of the program
+}// end of the programm
